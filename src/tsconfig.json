@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "APM",
+    "baseUrl": "",
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
