@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "ngApp",
+    "baseUrl": "APM",
     "declaration": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
